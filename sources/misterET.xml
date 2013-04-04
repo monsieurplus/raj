@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Jeu"> 
+  <void property="XResolution"> 
+   <int>1024</int> 
+  </void> 
+  <void property="YResolution"> 
+   <int>768</int> 
+  </void> 
+  <void property="cheminDossier"> 
+   <string>misterET/</string> 
+  </void> 
+  <void property="nomDuJeu"> 
+   <string>Mister E.T.</string> 
+  </void> 
+  <void property="persoDefaut"> 
+   <void property="carac"> 
+    <array class="java.lang.String" length="7"> 
+     <void index="0"> 
+      <string>100</string> 
+     </void> 
+     <void index="1"> 
+      <string>0</string> 
+     </void> 
+     <void index="2"> 
+      <string>0</string> 
+     </void> 
+     <void index="3"> 
+      <string>100</string> 
+     </void> 
+     <void index="4"> 
+      <string>0</string> 
+     </void> 
+     <void index="5"> 
+      <string>0</string> 
+     </void> 
+     <void index="6"> 
+      <string>1</string> 
+     </void> 
+    </array> 
+   </void> 
+   <void property="cheminNiveau"> 
+    <string>levels/1/level1.xml</string> 
+   </void> 
+   <void property="imba"> 
+    <string>pictures/character/standing_down.gif</string> 
+   </void> 
+   <void property="imdr"> 
+    <string>pictures/character/standing_right.gif</string> 
+   </void> 
+   <void property="imga"> 
+    <string>pictures/character/standing_left.gif</string> 
+   </void> 
+   <void property="imha"> 
+    <string>pictures/character/standing_up.gif</string> 
+   </void> 
+   <void property="maba"> 
+    <string>pictures/character/moving_down.gif</string> 
+   </void> 
+   <void property="madr"> 
+    <string>pictures/character/moving_right.gif</string> 
+   </void> 
+   <void property="maga"> 
+    <string>pictures/character/moving_left.gif</string> 
+   </void> 
+   <void property="maha"> 
+    <string>pictures/character/moving_up.gif</string> 
+   </void> 
+   <void property="nom"> 
+    <string>Mister ET</string> 
+   </void> 
+   <void property="nomCarac"> 
+    <array class="java.lang.String" length="5"> 
+     <void index="0"> 
+      <string>Health</string> 
+     </void> 
+     <void index="1"> 
+      <string>Sex appeal</string> 
+     </void> 
+     <void index="2"> 
+      <string>Motivation</string> 
+     </void> 
+     <void index="3"> 
+      <string>Greenness</string> 
+     </void> 
+     <void index="4"> 
+      <string>Money</string> 
+     </void> 
+    </array> 
+   </void> 
+   <void property="vitesse"> 
+    <int>7</int> 
+   </void> 
+   <void property="x"> 
+    <int>265</int> 
+   </void> 
+   <void property="y"> 
+    <int>555</int> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

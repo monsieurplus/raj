@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_09" class="java.beans.XMLDecoder"> 
+ <array class="ElementDuDecor" length="8"> 
+  <void index="0"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>attention ça pique!</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>169</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>109</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>cactus</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/cactus2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>120</int> 
+    </void> 
+    <void property="y"> 
+     <int>100</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>attention ça pique!</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>169</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>109</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>cactus</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/cactus2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>524</int> 
+    </void> 
+    <void property="y"> 
+     <int>220</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>attention ça pique!</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>169</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>109</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>cactus</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/cactus2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>400</int> 
+    </void> 
+    <void property="y"> 
+     <int>415</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>60</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>64</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/crane2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>500</int> 
+    </void> 
+    <void property="y"> 
+     <int>100</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="4"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>60</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>64</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/crane2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>261</int> 
+    </void> 
+    <void property="y"> 
+     <int>290</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="5"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>60</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>64</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/crane2.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>539</int> 
+    </void> 
+    <void property="y"> 
+     <int>348</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="6"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>50</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>50</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/panneau.GIF</string> 
+    </void>
+    <void property="x"> 
+     <int>150</int> 
+    </void> 
+    <void property="y"> 
+     <int>350</int> 
+    </void>
+   </object> 
+  </void> 
+  <void index="7"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>600</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>800</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/fonddesert2.jpg</string> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

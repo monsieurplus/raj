@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="Evenement" length="1"> 
+  <void index="0"> 
+   <object class="Evenement"> 
+    <void property="actionNon"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>changNiv</string>
+        </void> 
+        <void property="param0"> 
+         <string>niveaux/Maison/vraiMaison.xml</string>
+        </void> 
+        <void property="param1"> 
+         <string>350</string>
+        </void> 
+        <void property="param2"> 
+         <string>500</string>
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="actionOui"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>affTxt</string> 
+        </void> 
+        <void property="param0"> 
+         <string>Tu dois avoir une epee pour entrer dans cette maison</string> 
+        </void> 
+        <void property="param1"> 
+         <string>persoD</string> 
+        </void> 
+        <void property="param2"> 
+         <string>100</string>
+        </void> 
+        <void property="param3"> 
+         <string>100</string>
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="conditions"> 
+     <array class="Condition" length="1"> 
+      <void index="0"> 
+       <object class="Condition"> 
+        <void property="nomCondition"> 
+         <string>compCaracVal</string> 
+        </void> 
+        <void property="param0"> 
+         <string>0</string> 
+        </void> 
+        <void property="param1"> 
+         <string>==</string> 
+        </void> 
+        <void property="param2"> 
+         <string>4</string> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="h"> 
+     <int>35</int> 
+    </void> 
+    <void property="l"> 
+     <int>45</int> 
+    </void> 
+    <void property="x"> 
+     <int>395</int> 
+    </void> 
+    <void property="y"> 
+     <int>200</int> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

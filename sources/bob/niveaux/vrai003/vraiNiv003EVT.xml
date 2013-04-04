@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="Evenement" length="2"> 
+  <void index="0"> 
+   <object class="Evenement"> 
+    <void property="actionNon"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>rien</string> 
+        </void> 
+        <void property="param0"> 
+         <null/> 
+        </void> 
+        <void property="param1"> 
+         <null/> 
+        </void> 
+        <void property="param2"> 
+         <null/> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="actionOui"> 
+     <array class="Action" length="3"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>remplaceImg</string> 
+        </void> 
+        <void property="param0"> 
+         <string>10</string> 
+        </void> 
+        <void property="param1"> 
+         <string>images/pierreEpee0.gif</string> 
+        </void> 
+        <void property="param2"> 
+         <null/>
+        </void> 
+        <void property="param3"> 
+         <null/>
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+      <void index="1"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>modifCaracPerso</string> 
+        </void> 
+        <void property="param0"> 
+         <string>4</string> 
+        </void> 
+        <void property="param1"> 
+         <string>=</string> 
+        </void> 
+        <void property="param2"> 
+         <string>1</string> 
+        </void> 
+        <void property="param3"> 
+         <null/>
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+      <void index="2"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>modifImgPerso</string> 
+        </void> 
+        <void property="param0"> 
+         <string>images/perso/maepeega.gif</string> 
+        </void> 
+        <void property="param1"> 
+         <string>images/perso/maepeedr.gif</string> 
+        </void> 
+        <void property="param2"> 
+         <string>images/perso/maepeeha.gif</string> 
+        </void> 
+        <void property="param3"> 
+         <string>images/perso/maepeeba.gif</string> 
+        </void> 
+        <void property="param4"> 
+         <string>images/perso/imga.gif</string> 
+        </void> 
+        <void property="param5"> 
+         <string>images/perso/imepeedr.gif</string> 
+        </void> 
+        <void property="param6"> 
+         <string>images/perso/imepeeha.gif</string> 
+        </void> 
+        <void property="param7"> 
+         <string>images/perso/imepeeba.gif</string> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 	  
+     </array> 
+    </void> 
+    <void property="conditions"> 
+     <array class="Condition" length="1"> 
+      <void index="0"> 
+       <object class="Condition"> 
+        <void property="nomCondition"> 
+         <string>compCaracVal</string> 
+        </void> 
+        <void property="param0"> 
+         <string>0</string> 
+        </void> 
+        <void property="param1"> 
+         <string>=</string> 
+        </void> 
+        <void property="param2"> 
+         <string>4</string> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="h"> 
+     <int>80</int> 
+    </void> 
+    <void property="l"> 
+     <int>80</int> 
+    </void> 
+    <void property="x"> 
+     <int>380</int> 
+    </void> 
+    <void property="y"> 
+     <int>50</int> 
+    </void> 
+   </object> 
+  </void>
+  <void index="1"> 
+   <object class="Evenement"> 
+    <void property="actionNon"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>rien</string> 
+        </void> 
+        <void property="param0"> 
+         <null/> 
+        </void> 
+        <void property="param1"> 
+         <null/> 
+        </void> 
+        <void property="param2"> 
+         <null/> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="actionOui"> 
+     <array class="Action" length="2"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>remplaceImg</string> 
+        </void> 
+        <void property="param0"> 
+         <string>10</string> 
+        </void> 
+        <void property="param1"> 
+         <string>images/pierreEpee0.gif</string> 
+        </void> 
+        <void property="param2"> 
+         <null/>
+        </void> 
+        <void property="param3"> 
+         <null/>
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+      <void index="1"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>modifCaracPerso</string> 
+        </void> 
+        <void property="param0"> 
+         <string>4</string> 
+        </void> 
+        <void property="param1"> 
+         <string>=</string> 
+        </void> 
+        <void property="param2"> 
+         <string>1</string> 
+        </void> 
+        <void property="param3"> 
+         <null/>
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="conditions"> 
+     <array class="Condition" length="1"> 
+      <void index="0"> 
+       <object class="Condition"> 
+        <void property="nomCondition"> 
+         <string>!compCaracVal</string> 
+        </void> 
+        <void property="param0"> 
+         <string>0</string> 
+        </void> 
+        <void property="param1"> 
+         <string>=</string> 
+        </void> 
+        <void property="param2"> 
+         <string>4</string> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="etat"> 
+     <int>1</int> 
+    </void> 
+    <void property="h"> 
+     <int>80</int> 
+    </void> 
+    <void property="l"> 
+     <int>80</int> 
+    </void> 
+    <void property="x"> 
+     <int>380</int> 
+    </void> 
+    <void property="y"> 
+     <int>50</int> 
+    </void> 
+   </object> 
+  </void>
+ </array> 
+</java> 

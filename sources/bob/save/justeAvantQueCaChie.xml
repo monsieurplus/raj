@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Perso"> 
+  <void property="carac"> 
+   <array class="java.lang.String" length="5"> 
+    <void index="0"> 
+     <string>100</string> 
+    </void> 
+    <void index="1"> 
+     <string>0</string> 
+    </void> 
+    <void index="2"> 
+     <string>0</string> 
+    </void> 
+    <void index="3"> 
+     <string>100</string> 
+    </void> 
+    <void index="4"> 
+     <string>1</string> 
+    </void> 
+   </array> 
+  </void> 
+  <void property="cheminNiveau"> 
+   <string>niveaux/vrai001/vraiNiv001.xml</string> 
+  </void> 
+  <void property="imba"> 
+   <string>Bob/images/perso/imepeeba.gif</string> 
+  </void> 
+  <void property="imdr"> 
+   <string>Bob/images/perso/imepeedr.gif</string> 
+  </void> 
+  <void property="imga"> 
+   <string>Bob/images/perso/imga.gif</string> 
+  </void> 
+  <void property="imha"> 
+   <string>Bob/images/perso/imepeeha.gif</string> 
+  </void> 
+  <void property="maba"> 
+   <string>Bob/images/perso/maepeeba.gif</string> 
+  </void> 
+  <void property="madr"> 
+   <string>Bob/images/perso/maepeedr.gif</string> 
+  </void> 
+  <void property="maga"> 
+   <string>Bob/images/perso/maepeega.gif</string> 
+  </void> 
+  <void property="maha"> 
+   <string>Bob/images/perso/maepeeha.gif</string> 
+  </void> 
+  <void property="nom"> 
+   <string>Bob</string> 
+  </void> 
+  <void property="nomCarac"> 
+   <array class="java.lang.String" length="4"> 
+    <void index="0"> 
+     <string>vie</string> 
+    </void> 
+    <void index="1"> 
+     <string>faim</string> 
+    </void> 
+    <void index="2"> 
+     <string>soif</string> 
+    </void> 
+    <void index="3"> 
+     <string>hygiene</string> 
+    </void> 
+   </array> 
+  </void> 
+  <void property="vitesse"> 
+   <int>5</int> 
+  </void> 
+  <void property="x"> 
+   <int>530</int> 
+  </void> 
+  <void property="y"> 
+   <int>225</int> 
+  </void> 
+ </object> 
+</java> 

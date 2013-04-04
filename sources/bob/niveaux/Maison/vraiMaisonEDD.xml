@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="ElementDuDecor" length="6"> 
+  <void index="0"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>un canape confortable</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>90</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>252</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>maison</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/canape.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>285</int> 
+    </void> 
+    <void property="y"> 
+     <int>150</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>une table</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>157</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>210</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>maison</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/table.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>425</int> 
+    </void> 
+    <void property="y"> 
+     <int>236</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>136</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>109</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/tv.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>360</int> 
+    </void> 
+    <void property="y"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>97</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>66</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/gerard.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>155</int> 
+    </void> 
+    <void property="y"> 
+     <int>75</int> 
+    </void> 
+   </object> 
+  </void>
+  <void index="4"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>166</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>573</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/entree.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>124</int> 
+    </void> 
+    <void property="y"> 
+     <int>525</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="5"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>600</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>800</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/fondMaison.jpg</string> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

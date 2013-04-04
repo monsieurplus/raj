@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Niveau"> 
+  <void property="cheminEDD"> 
+   <string>/levels/1/level1OBJ.xml</string> 
+  </void> 
+  <void property="cheminEVT"> 
+   <null/>
+  </void> 
+  <void property="cheminOBS"> 
+   <string>/levels/1/level1OBS.xml</string>
+  </void> 
+  <void property="nomDuNiveau"> 
+   <string>la planete Zlurgp</string> 
+  </void> 
+  <void property="sortieB"> 
+   <string>levels/1/level1.xml</string> 
+  </void> 
+  <void property="sortieD"> 
+   <string>levels/2/level2.xml</string> 
+  </void> 
+  <void property="sortieG"> 
+   <string>levels/1/level1.xml</string> 
+  </void> 
+  <void property="sortieH"> 
+   <string>levels/1/level1.xml</string> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Niveau"> 
+  <void property="cheminEDD"> 
+   <string>niveaux/002/niv002EDD.xml</string> 
+  </void> 
+  <void property="cheminEVT"> 
+   <null/>
+  </void> 
+  <void property="cheminOBS"> 
+   <string>niveaux/002/niv002OBS.xml</string> 
+  </void> 
+  <void property="nomDuNiveau"> 
+   <string>le pré fleuri</string> 
+  </void> 
+  <void property="sortieB"> 
+   <string>niveaux/001/niv001.xml</string> 
+  </void> 
+  <void property="sortieD"> 
+   <string>niveaux/001/niv001.xml</string> 
+  </void> 
+  <void property="sortieG"> 
+   <string>niveaux/001/niv001.xml</string> 
+  </void> 
+  <void property="sortieH"> 
+   <string>niveaux/001/niv001.xml</string> 
+  </void> 
+ </object> 
+</java> 

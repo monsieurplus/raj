@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="Evenement" length="2"> 
+  <void index="0"> 
+   <object class="Evenement"> 
+    <void property="actionNon"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>affTxt</string> 
+        </void> 
+        <void property="param0"> 
+         <string>Bravo mon gars, t'as gagne !</string> 
+        </void> 
+        <void property="param1"> 
+         <string>absolu</string> 
+        </void> 
+        <void property="param2"> 
+         <string>100</string> 
+        </void> 
+        <void property="param3"> 
+         <string>35</string> 
+        </void> 
+        <void property="param4"> 
+         <string>210</string>
+        </void> 
+        <void property="param5"> 
+         <string>40</string> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="actionOui"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>affTxt</string> 
+        </void> 
+        <void property="param0"> 
+         <string>Bravo mon gars, t'as gagne !</string> 
+        </void> 
+        <void property="param1"> 
+         <string>absolu</string> 
+        </void> 
+        <void property="param2"> 
+         <string>100</string> 
+        </void> 
+        <void property="param3"> 
+         <string>35</string> 
+        </void> 
+        <void property="param4"> 
+         <string>210</string>
+        </void> 
+        <void property="param5"> 
+         <string>40</string> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="conditions"> 
+     <array class="Condition" length="1"> 
+      <void index="0"> 
+       <object class="Condition"> 
+        <void property="nomCondition"> 
+         <string>toujours</string> 
+        </void> 
+        <void property="param0"> 
+         <null/> 
+        </void> 
+        <void property="param1"> 
+         <null/> 
+        </void> 
+        <void property="param2"> 
+         <null/> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="h"> 
+     <int>40</int> 
+    </void> 
+    <void property="l"> 
+     <int>70</int> 
+    </void> 
+    <void property="x"> 
+     <int>152</int> 
+    </void> 
+    <void property="y"> 
+     <int>129</int> 
+    </void> 
+   </object> 
+  </void>
+  <void index="1"> 
+   <object class="Evenement"> 
+    <void property="actionNon"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>rien</string> 
+        </void> 
+        <void property="param0"> 
+         <null/>
+        </void> 
+        <void property="param1"> 
+         <null/> 
+        </void> 
+        <void property="param2"> 
+         <null/> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="actionOui"> 
+     <array class="Action" length="1"> 
+      <void index="0"> 
+       <object class="Action"> 
+        <void property="nomAction"> 
+         <string>changNiv</string> 
+        </void> 
+        <void property="param0"> 
+         <string>niveaux/vrai001/vraiNiv001.xml</string> 
+        </void> 
+        <void property="param1"> 
+         <string>380</string> 
+        </void> 
+        <void property="param2"> 
+         <string>195</string> 
+        </void> 
+        <void property="param3"> 
+         <null/>
+        </void> 
+        <void property="param4"> 
+         <null/>
+        </void> 
+        <void property="param5"> 
+         <null/>
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="conditions"> 
+     <array class="Condition" length="1"> 
+      <void index="0"> 
+       <object class="Condition"> 
+        <void property="nomCondition"> 
+         <string>toujours</string> 
+        </void> 
+        <void property="param0"> 
+         <null/> 
+        </void> 
+        <void property="param1"> 
+         <null/> 
+        </void> 
+        <void property="param2"> 
+         <null/> 
+        </void> 
+        <void property="param3"> 
+         <null/> 
+        </void> 
+        <void property="param4"> 
+         <null/> 
+        </void> 
+        <void property="param5"> 
+         <null/> 
+        </void> 
+        <void property="param6"> 
+         <null/> 
+        </void> 
+        <void property="param7"> 
+         <null/> 
+        </void> 
+        <void property="param8"> 
+         <null/> 
+        </void> 
+        <void property="param9"> 
+         <null/> 
+        </void> 
+       </object> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="h"> 
+     <int>74</int> 
+    </void> 
+    <void property="l"> 
+     <int>115</int> 
+    </void> 
+    <void property="x"> 
+     <int>341</int> 
+    </void> 
+    <void property="y"> 
+     <int>526</int> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

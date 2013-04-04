@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="Obstacle" length="6"> 
+  <void index="0"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>0</int> 
+    </void> 
+    <void property="x2"> 
+     <int>46</int> 
+    </void> 
+    <void property="y1"> 
+     <int>0</int> 
+    </void> 
+    <void property="y2"> 
+     <int>156</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>0</int> 
+    </void> 
+    <void property="x2"> 
+     <int>46</int> 
+    </void> 
+    <void property="y1"> 
+     <int>456</int> 
+    </void> 
+    <void property="y2"> 
+     <int>768</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>0</int> 
+    </void> 
+    <void property="x2"> 
+     <int>1024</int> 
+    </void> 
+    <void property="y1"> 
+     <int>0</int> 
+    </void> 
+    <void property="y2"> 
+     <int>54</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>0</int> 
+    </void> 
+    <void property="x2"> 
+     <int>663</int> 
+    </void> 
+    <void property="y1"> 
+     <int>715</int> 
+    </void> 
+    <void property="y2"> 
+     <int>768</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="4"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>978</int> 
+    </void> 
+    <void property="x2"> 
+     <int>1024</int> 
+    </void> 
+    <void property="y1"> 
+     <int>0</int> 
+    </void> 
+    <void property="y2"> 
+     <int>768</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="5"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>770</int> 
+    </void> 
+    <void property="x2"> 
+     <int>940</int> 
+    </void> 
+    <void property="y1"> 
+     <int>160</int> 
+    </void> 
+    <void property="y2"> 
+     <int>222</int> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

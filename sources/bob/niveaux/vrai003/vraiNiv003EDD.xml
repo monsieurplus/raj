@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_09" class="java.beans.XMLDecoder"> 
+ <array class="ElementDuDecor" length="12"> 
+  <void index="0"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>86</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>268</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murH01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>180</int> 
+    </void> 
+    <void property="y"> 
+     <int>342</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>88</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>132</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murH02.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>500</int> 
+    </void> 
+    <void property="y"> 
+     <int>165</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>86</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>202</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murH03.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>178</int> 
+    </void> 
+    <void property="y"> 
+     <int>165</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>250</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>29</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>178</int> 
+    </void> 
+    <void property="y"> 
+     <int>188</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="4"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>315</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>42</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV02.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>598</int> 
+    </void> 
+    <void property="y"> 
+     <int>178</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="5"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>261</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>35</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV03.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>443</int> 
+    </void> 
+    <void property="y"> 
+     <int>339</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="6"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>250</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>29</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>352</int> 
+    </void> 
+    <void property="y"> 
+     <int>11</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="7"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>250</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>29</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>352</int> 
+    </void> 
+    <void property="y"> 
+     <int>-2</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="8"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>250</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>29</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>498</int> 
+    </void> 
+    <void property="y"> 
+     <int>11</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="9"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>250</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>29</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/murV01.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>498</int> 
+    </void> 
+    <void property="y"> 
+     <int>-2</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="10"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>69</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>64</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/pierreEpee1.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>400</int> 
+    </void> 
+    <void property="y"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="11"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>600</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>800</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/fondgrotte.jpg</string> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

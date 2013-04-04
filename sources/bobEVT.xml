@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Jeu"> 
+  <void property="cheminDossier"> 
+   <string>Bob/</string> 
+  </void> 
+  <void property="nomDuJeu"> 
+   <string>Bob le Pirate</string> 
+  </void> 
+  <void property="persoDefaut"> 
+   <void property="carac"> 
+    <array class="java.lang.String" length="4"> 
+     <void index="0"> 
+      <string>100</string> 
+     </void> 
+     <void index="1"> 
+      <string>0</string> 
+     </void> 
+     <void index="2"> 
+      <string>0</string> 
+     </void> 
+     <void index="3"> 
+      <string>100</string> 
+     </void> 
+    </array> 
+   </void> 
+   <void property="cheminNiveau"> 
+    <string>niveaux/001/niv001.xml</string> 
+   </void> 
+   <void property="imba"> 
+    <string>images/perso/imba.gif</string> 
+   </void> 
+   <void property="imdr"> 
+    <string>images/perso/imdr.gif</string> 
+   </void> 
+   <void property="imga"> 
+    <string>images/perso/imga.gif</string> 
+   </void> 
+   <void property="imha"> 
+    <string>images/perso/imha.gif</string> 
+   </void> 
+   <void property="maba"> 
+    <string>images/perso/maba.gif</string> 
+   </void> 
+   <void property="madr"> 
+    <string>images/perso/madr.gif</string> 
+   </void> 
+   <void property="maga"> 
+    <string>images/perso/maga.gif</string> 
+   </void> 
+   <void property="maha"> 
+    <string>images/perso/maha.gif</string> 
+   </void> 
+   <void property="nom"> 
+    <string>Bob</string> 
+   </void> 
+   <void property="nomCarac"> 
+    <array class="java.lang.String" length="4"> 
+     <void index="0"> 
+      <string>vie</string> 
+     </void> 
+     <void index="1"> 
+      <string>faim</string> 
+     </void> 
+     <void index="2"> 
+      <string>soif</string> 
+     </void> 
+     <void index="3"> 
+      <string>hygiene</string> 
+     </void> 
+    </array> 
+   </void> 
+   <void property="vitesse"> 
+    <int>5</int> 
+   </void> 
+   <void property="x"> 
+    <int>100</int> 
+   </void> 
+   <void property="y"> 
+    <int>200</int> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

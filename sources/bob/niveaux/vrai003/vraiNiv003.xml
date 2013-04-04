@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="Niveau"> 
+  <void property="cheminEDD"> 
+   <string>niveaux/vrai003/vraiNiv003EDD.xml</string> 
+  </void> 
+  <void property="cheminEVT"> 
+   <string>niveaux/vrai003/vraiNiv003EVT.xml</string> 
+  </void> 
+  <void property="cheminOBS"> 
+   <string>niveaux/vrai003/vraiNiv003OBS.xml</string> 
+  </void> 
+  <void property="nomDuNiveau"> 
+   <string>La Grotte</string> 
+  </void> 
+  <void property="sortieH"> 
+   <string>niveaux/vrai002/vraiNiv002.xml</string> 
+  </void> 
+ </object> 
+</java> 

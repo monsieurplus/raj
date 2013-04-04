@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="Obstacle" length="15"> 
+  <void index="0"> 
+   <object class="Obstacle"> 
+    <void property="x2"> 
+     <int>79</int> 
+    </void> 
+    <void property="y2"> 
+     <int>67</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="Obstacle"> 
+    <void property="x2"> 
+     <int>41</int> 
+    </void> 
+    <void property="y2"> 
+     <int>600</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>79</int> 
+    </void> 
+    <void property="x2"> 
+     <int>217</int> 
+    </void> 
+    <void property="y2"> 
+     <int>35</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>373</int> 
+    </void> 
+    <void property="x2"> 
+     <int>520</int> 
+    </void> 
+    <void property="y2"> 
+     <int>90</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="4"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>693</int> 
+    </void> 
+    <void property="x2"> 
+     <int>800</int> 
+    </void> 
+    <void property="y2"> 
+     <int>35</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="5"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>757</int> 
+    </void> 
+    <void property="x2"> 
+     <int>800</int> 
+    </void> 
+    <void property="y2"> 
+     <int>600</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="6"> 
+   <object class="Obstacle"> 
+    <void property="x2"> 
+     <int>800</int> 
+    </void> 
+    <void property="y1"> 
+     <int>555</int> 
+    </void> 
+    <void property="y2"> 
+     <int>600</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="7"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>352</int> 
+    </void> 
+    <void property="x2"> 
+     <int>381</int> 
+    </void> 
+    <void property="y2"> 
+     <int>261</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="8"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>498</int> 
+    </void> 
+    <void property="x2"> 
+     <int>527</int> 
+    </void> 
+    <void property="y2"> 
+     <int>261</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="9"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>498</int> 
+    </void> 
+    <void property="x2"> 
+     <int>632</int> 
+    </void> 
+    <void property="y1"> 
+     <int>236</int> 
+    </void> 
+    <void property="y2"> 
+     <int>261</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="10"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>598</int> 
+    </void> 
+    <void property="x2"> 
+     <int>640</int> 
+    </void> 
+    <void property="y1"> 
+     <int>236</int> 
+    </void> 
+    <void property="y2"> 
+     <int>493</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="11"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>178</int> 
+    </void> 
+    <void property="x2"> 
+     <int>381</int> 
+    </void> 
+    <void property="y1"> 
+     <int>236</int> 
+    </void> 
+    <void property="y2"> 
+     <int>261</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="12"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>178</int> 
+    </void> 
+    <void property="x2"> 
+     <int>207</int> 
+    </void> 
+    <void property="y1"> 
+     <int>236</int> 
+    </void> 
+    <void property="y2"> 
+     <int>428</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="13"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>180</int> 
+    </void> 
+    <void property="x2"> 
+     <int>448</int> 
+    </void> 
+    <void property="y1"> 
+     <int>403</int> 
+    </void> 
+    <void property="y2"> 
+     <int>428</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="14"> 
+   <object class="Obstacle"> 
+    <void property="x1"> 
+     <int>443</int> 
+    </void> 
+    <void property="x2"> 
+     <int>478</int> 
+    </void> 
+    <void property="y1"> 
+     <int>403</int> 
+    </void> 
+    <void property="y2"> 
+     <int>600</int> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

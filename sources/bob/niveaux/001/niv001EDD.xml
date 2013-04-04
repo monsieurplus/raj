@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="ElementDuDecor" length="5"> 
+  <void index="0"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>cette maison abrite surement quelques objets...</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>100</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>100</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>maison</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/maison.GIF</string> 
+    </void> 
+    <void property="x"> 
+     <int>500</int> 
+    </void> 
+    <void property="y"> 
+     <int>400</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="1"> 
+   <object class="ElementDuDecor"> 
+    <void property="affichage"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="description"> 
+     <string>cette maison abrite surement quelques objets...</string> 
+    </void> 
+    <void property="hauteur"> 
+     <int>100</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>100</int> 
+    </void> 
+    <void property="nomDeLElement"> 
+     <string>maison</string> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/maison.GIF</string> 
+    </void> 
+    <void property="x"> 
+     <int>300</int> 
+    </void> 
+    <void property="y"> 
+     <int>200</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="2"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>228</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>250</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/arbre.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>500</int> 
+    </void> 
+    <void property="y"> 
+     <int>100</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="3"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>64</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>88</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/buisson.gif</string> 
+    </void> 
+    <void property="x"> 
+     <int>410</int> 
+    </void> 
+    <void property="y"> 
+     <int>270</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void index="4"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>600</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>800</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>images/fond.gif</string> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 

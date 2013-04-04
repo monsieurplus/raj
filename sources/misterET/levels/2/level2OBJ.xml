@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <array class="ElementDuDecor" length="27"> 
+   <void index="0"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>7</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="1"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>7</int> 
+     </void> 
+     <void property="y"> 
+      <int>152</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="2"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>7</int> 
+     </void> 
+     <void property="y"> 
+      <int>456</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="3"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>7</int> 
+     </void> 
+     <void property="y"> 
+      <int>608</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="4"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>59</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="5"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>160</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="6"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>261</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="7"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>362</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="8"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>463</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="9"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>564</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="10"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>665</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="11"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>766</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="12"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>867</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="13"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>968</int> 
+     </void> 
+     <void property="y"> 
+      <int>0</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="14"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>59</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="15"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>160</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="16"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>261</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="17"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>362</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="18"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>463</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="19"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>564</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="20"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>665</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="21"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>766</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="22"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>54</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>100</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_horizontal.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>867</int> 
+     </void> 
+     <void property="y"> 
+      <int>710</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="23"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>968</int> 
+     </void> 
+     <void property="y"> 
+      <int>456</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="24"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>156</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>49</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/backgrounds/contour_vertical.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>968</int> 
+     </void> 
+     <void property="y"> 
+      <int>608</int> 
+     </void> 
+    </object> 
+  </void> 
+   <void index="25"> 
+    <object class="ElementDuDecor"> 
+     <void property="hauteur"> 
+      <int>150</int> 
+     </void> 
+     <void property="largeur"> 
+      <int>108</int> 
+     </void> 
+     <void property="nomDuFichierImage"> 
+      <string>pictures/objects/girlfriend_moving.gif</string> 
+     </void> 
+     <void property="x"> 
+      <int>650</int> 
+     </void> 
+     <void property="y"> 
+      <int>70</int> 
+     </void> 
+    </object> 
+  </void> 
+  <void index="26"> 
+   <object class="ElementDuDecor"> 
+    <void property="hauteur"> 
+     <int>768</int> 
+    </void> 
+    <void property="largeur"> 
+     <int>1024</int> 
+    </void> 
+    <void property="nomDuFichierImage"> 
+     <string>pictures/backgrounds/Level 2.jpg</string> 
+    </void> 
+   </object> 
+  </void> 
+ </array> 
+</java> 
